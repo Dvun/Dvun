@@ -42,10 +42,9 @@
             alt="css3" width="40" height="40"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40"/>
-</a>
+<code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+</code>
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 5px">
         <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffindnerd.s3.amazonaws.com%2Fimagedata%2F8007%2F8007.png&f=1&nofb=1"
