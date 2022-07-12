@@ -66,7 +66,7 @@
 <p style="display: flex; justify-content: space-between">
 <span>
     <img height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=dvun&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Dvun&show_icons=true&locale=en&layout=compact&langs_count=20"
         alt="dvun"/>
 </span>
 
