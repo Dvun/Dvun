@@ -93,7 +93,7 @@
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg"
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png"
         alt="nodejs" width="40" height="40"/>
 </a>
 
