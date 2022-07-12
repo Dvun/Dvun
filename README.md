@@ -12,17 +12,16 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/roman-sheveljov-696615192/" target="blank" style="margin-right: 5px">
-        <img align="center" src="https://www.svgrepo.com/show/138936/linkedin.svg"
-             alt="@Slider84" height="30" width="30"/>
+<a href="https://www.linkedin.com/in/roman-sheveljov-696615192/" target="blank">
+        <img align="center" src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="@Slider84" height="30" width="30"/>
 </a>
 
-<a href="mailto:roman084@gmx.com" target="blank" style="margin-right: 5px">
+<a href="mailto:roman084@gmx.com" target="blank" style="margin-right: 10px">
         <img align="center" src="https://www.svgrepo.com/show/49000/email.svg"
              alt="@Slider84" height="30" width="30"/>
 </a>
 
-<a href="https://t.me/Slider84" target="blank" style="margin-right: 5px">
+<a href="https://t.me/Slider84" target="blank" style="margin-right: 10px">
         <img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg"
              alt="@Slider84" height="30" width="30"/>
 </a>
@@ -135,12 +134,14 @@
 <br/>
 
 <p>
+<p>
     <img align="left" height="180"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=dvun&show_icons=true&locale=en&layout=compact"
         alt="dvun"/>
 </p>
 
 <p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dvun&" height="180"
+    <img align="right" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dvun&"
         alt="dvun"/>
+</p>
 </p>
