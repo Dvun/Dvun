@@ -133,14 +133,14 @@
 
 <br/>
 
-<p style="display: flex, justify-content: space-between">
-<span align="left">
+<p style="display: flex; justify-content: space-between">
+<span>
     <img height="180"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=dvun&show_icons=true&locale=en&layout=compact"
         alt="dvun"/>
 </span>
 
-<span align="right">
+<span>
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dvun&"
         alt="dvun"/>
 </span>
