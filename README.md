@@ -32,98 +32,33 @@
 <h3 align="center">Languages and Tools:</h3>
 
 
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"                                 height="30">
-</code>
+<p>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
+<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg"></code>
+<code><img height="30" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code>
+<code><img height="30" src="https://expressjs.com/images/express-facebook-share.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
+<code><img height="30" src="https://i.pinimg.com/originals/c5/73/49/c57349d1de8e1834c3d93a2e8f9ef615.png"></code>
+<code><img height="31" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/640px-Figma-logo.svg.png"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png" height="30"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/css3-logo.png" height="30"></code>
+<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/docker-logo.png"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/firebase-logo.png" height="30"/></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/git-logo.png" height="30"/></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/heroku-logo.png" height="30"/></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/html-logo.png" height="30"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="30"/></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/mongodb-logo.png" height="40"/></code>
 
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="30">
-</code>
 
-<code>
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
-            alt="express" width="80" height="40"/>
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" 
-    alt="firebase" height="40"/>
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40"/>
-</code>
-
-<a href="https://heroku.com" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-</a>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" height="40"/>
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-                alt="javascript" height="40"/>
-</code>
-
-<a href="https://jestjs.io" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-</a>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb"                       height="40"/>
-</code>
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-    <img src="https://marcas-logos.net/wp-content/uploads/2020/03/NEXT-LOGO-768x432.png" 
-    alt="nextjs" width="80" height="40"/>
-</a>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"                          height="40"/>
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
-        alt="postgresql" height="40"/>
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40"/>
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" height="40"/>
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"
-                height="40"/>
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"
-                height="40"/>
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-         alt="typescript" height="40"/>
-</code>
-
-<code>
-    <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" height="40"/>
-</code>
-
-<code>
-<img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" height="40" />
-</code>
-
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Next-white-2022.jpg/640px-Next-white-2022.jpg" height="30"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="30"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="30"/></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-1.png" alt="java" height="30"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" height="30"/></code>
+</p>
 
 <br/>
 
