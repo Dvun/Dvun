@@ -50,8 +50,9 @@
 <code><img src="https://brandslogos.com/wp-content/uploads/images/heroku-logo.png" height="30"/></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/html-logo.png" height="30"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="30"/></code>
+</p>
 
-
+<p align="center">
 <code><img src="https://brandslogos.com/wp-content/uploads/images/mongodb-logo.png" height="40"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Next-white-2022.jpg/640px-Next-white-2022.jpg" height="30"/></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="30"/></code>
