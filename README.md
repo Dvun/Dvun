@@ -32,45 +32,40 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40"/>
-</a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap"                 height="40"/>
+</code>
+
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" height="40"/>
+</code>
 
 <code>
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 </code>
 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffindnerd.s3.amazonaws.com%2Fimagedata%2F8007%2F8007.png&f=1&nofb=1"
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
             alt="express" width="80" height="40"/>
-</a>
+</code>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" 
+    alt="firebase" height="40"/>
+</code>
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40"/>
+</code>
 
 <a href="https://heroku.com" target="_blank" rel="noreferrer" style="margin-right: 5px">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" height="40"/>
+</code>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 5px">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -81,63 +76,50 @@
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb"                       height="40"/>
+</code>
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 5px">
     <img src="https://marcas-logos.net/wp-content/uploads/2020/03/NEXT-LOGO-768x432.png" 
     alt="nextjs" width="80" height="40"/>
 </a>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png"
-        alt="nodejs" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"                          height="40"/>
+</code>
 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
+        alt="postgresql" height="40"/>
+</code>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40"/>
+</code>
 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer" style="margin-right: 5px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-         width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" height="40"/>
+</code>
 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-        width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"
+                height="40"/>
+</code>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-         alt="typescript" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"
+                height="40"/>
+</code>
 
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img
-        src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-        alt="webpack" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+         alt="typescript" height="40"/>
+</code>
 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img
-        src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"
-        alt="webpack" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
-        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
-        alt="webpack" width="40" height="40"/>
-</a>
+<code>
+    <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" height="40"/>
+</code>
 
 <code>
 <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" height="40" />
