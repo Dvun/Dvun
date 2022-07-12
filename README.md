@@ -129,6 +129,17 @@
         alt="webpack" width="40" height="40"/>
 </a>
 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="margin-right: 5px">
+        <img
+        src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"
+        alt="webpack" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer" style="margin-right: 5px">
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
+        alt="webpack" width="40" height="40"/>
+</a>
+
 </p>
 
 <br/>
