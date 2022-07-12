@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">I'm a frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solexofficial&label=Profile%20views&color=0e75b6&style=flat" alt="solexofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvun&label=Profile%20views&color=0e75b6&style=flat" alt="dvun" /> </p>
 
-- 🌱 I’m currently learning **React, Typescript**
-- <p align="left"><img src="https://www.codewars.com/users/Solexofficial/badges/large" alt="codewars-stats" /> </p>
+<!-- - 🌱 I’m currently learning **React, Typescript** -->
+<!-- - <p align="left"><img src="https://www.codewars.com/users/Solexofficial/badges/large" alt="codewars-stats" /> </p> -->
 
-- 📫 How to reach me **solexofficial@yandex.ru**
+- 📫 How to reach me **roman084@gmx.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
