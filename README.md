@@ -133,15 +133,15 @@
 
 <br/>
 
-<p>
-<p>
-    <img align="left" height="180"
+<p style="display: flex, justify-content: space-between">
+<span align="left">
+    <img height="180"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=dvun&show_icons=true&locale=en&layout=compact"
         alt="dvun"/>
-</p>
+</span>
 
-<p>
-    <img align="right" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dvun&"
+<span align="right">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dvun&"
         alt="dvun"/>
-</p>
+</span>
 </p>
