@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/roman-sheveljov-696615192/" target="blank">
+<a href="https://www.linkedin.com/in/roman-sheveljov/" target="_blank">
         <img align="center" src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="@Slider84" height="30" width="30"/>
 </a>
 
