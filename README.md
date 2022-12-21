@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=dvun&label=Profile%20views&color=0e75b6&style=flat" alt="dvun"/>
 </p>
 
-🌱 I’m currently learning **Java, Spring Boot**
+🌱 I’m currently learning **C#, .NET Core**
 
 - 📫 How to reach me **roman084@gmx.com**
 
