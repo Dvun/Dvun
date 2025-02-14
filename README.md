@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">I'm a frontend developer</h3>
+<h3 align="center">I'm a fullStack developer</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=dvun&label=Profile%20views&color=0e75b6&style=flat" alt="dvun"/>
 </p>
 
-🌱 I’m currently learning **C#, .NET Core**
+🌱 Currently learning Java, Spring boot**
 
 - 📫 How to reach me **roman084@gmx.com**
 
